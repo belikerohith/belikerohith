@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith kumar</h1>
 <h3 align="center">A passionate final-year student , specializing in data science and full-stack development. Skilled in both frontend and backend technologies, as well as in transforming raw data into actionable insights. With expertise in machine learning, statistical analysis, and data visualization, they excel at building scalable applications that offer seamless user experiences and robust backend functionality.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photos-vectors/coding-cartoon">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photos-vectors/coding-cartoon.gif">
 
 
 
